@@ -30,11 +30,19 @@ portfolio/
 │
 ├── index.html
 └── README.md
+
+
 images/: Contains images used on the portfolio page and the resume PDF.
+
 css/: Contains the CSS file for styling the page.
+
 js/: Contains JavaScript files for adding interactivity.
+
 index.html: The main HTML file for the portfolio page.
+
 README.md: This README file.
+
+
 How to Run
 Clone the repository or download the files to your local machine.
 Open the project folder in Visual Studio Code.
@@ -43,6 +51,7 @@ Contact
 Email: hsila001@odu.edu
 Phone: 571-494-9785
 LinkedIn: holademsiladin21
+
 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
